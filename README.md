@@ -1,6 +1,6 @@
 ---
 name: Vercel Postgres + Drizzle ORM + pgvector Next.js Starter
-slug: postgres-pgvector
+slug: postgres-pgvector 
 description: A Next.js template that uses Vercel Postgres as the database, Drizzle ORM as the ORM with pgvector to enable vector similarity search, and OpenAI's text-embedding-ada-002 model for embeddings.
 framework: Next.js
 useCase: Starter
@@ -14,7 +14,7 @@ relatedTemplates:
   - postgres-drizzle
 ---
 
-# Vercel Postgres + Drizzle ORM + pgvector Next.js Starter
+# Vercel Postgres + Drizzle ORM + pgvector Next.js Starterr
 
 A Next.js template that uses [Vercel Postgres](https://vercel.com/postgres) as the database, [Drizzle ORM](https://orm.drizzle.team/) as the ORM with [pgvector](https://github.com/pgvector/pgvector-node#drizzle-orm) to enable vector similarity search, and OpenAI's [`text-embedding-ada-002`](https://platform.openai.com/docs/guides/embeddings) model for embeddings.
 
